@@ -1,12 +1,12 @@
 {
-  "name": "X-BOT-MD",
+  "name": "Hassi-BOT-MD",
   "version": "3.2.0",
   "description": "WhatsApp Helper Bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "pm2 start . --attach --name X-BOT-MD",
-    "stop": "pm2 stop . --attach --name X-BOT-MD"
+    "start": "pm2 start . --attach --name Hassi-BOT-MD",
+    "stop": "pm2 stop . --attach --name Hassi-BOT-MD"
   },
   "repository": {
     "type": "git",
